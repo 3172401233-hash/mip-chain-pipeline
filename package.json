@@ -1,0 +1,11 @@
+{
+  "name": "mip-chain-pipeline",
+  "version": "0.1.0",
+  "description": "纯 JavaScript 纹理 Mip 链生成库：色彩空间感知、法线重归一化、Alpha 覆盖率保持",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
